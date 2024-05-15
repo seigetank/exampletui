@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\SIKLAB\Desktop\세종프로젝트\The-Genius\THE_GENIUS\THE_GENIUS\Main.c(76,23): warning C4129: ';': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\SIKLAB\Desktop\세종프로젝트\The-Genius\THE_GENIUS\THE_GENIUS\Main.c(231,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  THE_GENIUS.vcxproj -> C:\Users\SIKLAB\Desktop\세종프로젝트\The-Genius\THE_GENIUS\Debug\THE_GENIUS.exe
